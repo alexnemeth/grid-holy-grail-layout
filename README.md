@@ -1,2 +1,1 @@
-# grid-holy-grail-layout
-This is a pracctice for grid
+This is a practice for grid. Holy Grail Layout for any Blogs
